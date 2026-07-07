@@ -52,3 +52,32 @@ header {
 .hero h1 {
     margin: 0;
 }
+
+.information {
+    background-color: #ffffff;
+    color: #1F2937;
+}
+
+.information h2 {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.information ul {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.information li {
+    width: 160px;
+    text-align: center;
+}
+
+.info-image {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #3d71b9;
+    border-radius: 10px;
+    
+}
